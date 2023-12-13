@@ -109,7 +109,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:text="\n首页：https://github.com/zhilv666/water1211\n作者：zhilv">
+            android:text="\n首页：https://github.com/zhilv666/qzxy\n作者：zhilv">
 
         </TextView>
     </LinearLayout>

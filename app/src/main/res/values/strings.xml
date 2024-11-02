@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">趣智校园饮水版</string>
+    <string name="login">登录</string>
+    <string name="username_hint">请输入账号</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="footer_text">作者：zhilv\n反馈邮箱：zhilv666@qq.com</string>
+    <string name="app_version">版本号：%s</string>
+</resources>
